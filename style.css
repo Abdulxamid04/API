@@ -1,0 +1,22 @@
+body{
+  background-color: burlywood
+}
+*{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    
+}
+.photoButton{
+    cursor: pointer;
+    border: solid black;
+    padding: 6px 20px;
+    background-color: black;
+    color: white;
+    transition: all 0.4s
+}
+.photoButton:hover{
+    background-color: white;
+    color: black;
+    transition: all 0.4s
+}
